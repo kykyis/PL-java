@@ -10,7 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88ac5c45-d862-47fd-a46a-f7965dc90ad2" name="Default Changelist" comment="" />
+    <list default="true" id="88ac5c45-d862-47fd-a46a-f7965dc90ad2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/task1/src/main/java/BaseTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/src/main/java/exception/IllegalArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/task2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/task2/task2.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,10 +39,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/task1" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\PL-java\task1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\PL-java" />
       <recent name="C:\Projects\PL-java\.idea" />
     </key>
   </component>
@@ -61,6 +71,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1615603671818">
